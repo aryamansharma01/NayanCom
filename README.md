@@ -16,7 +16,7 @@ The project aims to solve the human computer interaction (HCI) problem for peopl
 ## Video Demonstration
   
 
-<p align = "center"> https://user-images.githubusercontent.com/54472596/174836570-305af424-e1ff-431a-8d0a-9af828b37631.mp4 </p>
+<p align = "center"> https://user-images.githubusercontent.com/54472596/210175637-76582225-dc49-4092-a290-9d6378b57595.mp4 </p>
 
 ## Components 
 ### ▶️ Blink Detection 
